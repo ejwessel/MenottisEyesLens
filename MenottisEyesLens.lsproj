@@ -3,7 +3,7 @@
     "document_id": "-idkyvTSv4Gf8RRe1SxK",
     "original_document_id": "-idkyvTSv4Gf8RRe1SxK",
     "version": "23",
-    "lastChanged": "1585153765512",
+    "lastChanged": "1585157380601",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -34,6 +34,9 @@
                     ],
                     [
                         "MenottisM_no_background"
+                    ],
+                    [
+                        "Menottis_Logo"
                     ],
                     [
                         "echopark_diff"
@@ -147,6 +150,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1585156407336412:2376",
+                    "name": "Files\/File7.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -179,7 +190,36 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1585156419298050:2501",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1585156419412573:2635",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -191,7 +231,9 @@
                 "2": "1528843813151434:5126",
                 "3": "1585152562578341:1930",
                 "4": "1585152562582883:1931",
-                "5": "1585152822169191:2384"
+                "5": "1585152822169191:2384",
+                "6": "1585156419294268:2499",
+                "7": "1585156419412030:2634"
             }
         },
         "LayerComponent": {
@@ -237,6 +279,14 @@
                 {
                     "k": "6",
                     "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
                 }
             ]
         },
@@ -264,6 +314,10 @@
                     {
                         "k": "4",
                         "v": "MenottisM_no_background.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Menottis_Logo.png"
                     }
                 ],
                 "hashes": [
@@ -282,14 +336,18 @@
                     {
                         "k": "4",
                         "v": "d247148868456a33fcf8b68b869becc3"
+                    },
+                    {
+                        "k": "5",
+                        "v": "20cf85cd1d4230f3fdbba6fe149b2d31"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-25T12:20:53",
+                        "lastModified": "2020-03-25T13:29:35",
                         "name": "Public",
-                        "hash": "b1a0ba4805f25790273355e2b6358874",
+                        "hash": "95107c65540d5401d9ff6993d11f4d46",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -310,6 +368,13 @@
                                 "lastModified": "2019-12-13T20:21:52",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-25T13:13:10",
+                                "name": "Menottis_Logo.png",
+                                "hash": "20cf85cd1d4230f3fdbba6fe149b2d31",
                                 "children": ""
                             },
                             {
@@ -421,6 +486,19 @@
                         "publicId": "4",
                         "source": "\/Users\/ejwessel\/Downloads\/MenottisM.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "Menottis_Logo",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1585156407336412:2376",
+                        "fileId": "7",
+                        "originalId": "8",
+                        "publicId": "5",
+                        "source": "\/Users\/ejwessel\/Downloads\/Menottis_Solo_Final.png",
+                        "additional": ""
                     }
                 ]
             }
@@ -429,9 +507,9 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1585152558604708:1870",
+                        "uid": "1585156407336412:2376",
                         "path_list": [
-                            "MenottisM"
+                            "Menottis_Solo_Final"
                         ]
                     }
                 ]
